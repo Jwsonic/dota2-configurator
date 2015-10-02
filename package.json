@@ -8,7 +8,9 @@
   "dependencies": {
     "babel": "^5.8.23",
     "chokidar": "^1.2.0",
-    "es6-promise": "^3.0.2"
+    "es6-promise": "^3.0.2",
+    "node-notifier": "^4.3.1",
+    "rsvp": "^3.1.0"
   },
   "scripts": {
     "test": "BABEL_JEST_STAGE=1 jest",
