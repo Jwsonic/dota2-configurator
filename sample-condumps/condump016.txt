@@ -1,0 +1,904 @@
+ota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 393:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_team_player_list_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_money_changed", Tick 393:
+Game event "dota_starting_position_changed", Tick 393:
+Game event "lobby_updated", Tick 393:
+Game event "dota_player_update_hero_selection", Tick 405:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_team_player_list_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_money_changed", Tick 408:
+Game event "dota_starting_position_changed", Tick 408:
+Game event "dota_player_update_hero_selection", Tick 408:
+- "tabcycle" = "0"
+Game event "dota_money_changed", Tick 591:
+Randoming npc_dota_hero_sniper!
+Randoming npc_dota_hero_sniper!
+Game event "dota_hero_random", Tick 591:
+- "userid" = "0"
+- "heroid" = "35"
+Game event "dota_money_changed", Tick 591:
+Game event "dota_player_update_hero_selection", Tick 591:
+- "tabcycle" = "0"
+Game event "dota_money_changed", Tick 594:
+Game event "dota_money_changed", Tick 594:
+Game event "dota_player_update_hero_selection", Tick 594:
+- "tabcycle" = "0"
+Game event "dota_player_update_assigned_hero", Tick 647:
+Game event "dota_player_pick_hero", Tick 647:
+- "player" = "2"
+- "heroindex" = "518"
+- "hero" = "npc_dota_hero_sniper"
+Game event "dota_player_update_selected_unit", Tick 647:
+Game event "dota_inventory_changed", Tick 647:
+Game event "dota_portrait_unit_stats_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+MODELCOMBINER: Combined model models/heroes/sniper/sniper_c_52.vmdl in 0.976563 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/sniper/sniper_c_52.vmdl took 0.097665 ms
+Game event "lobby_updated", Tick 655:
+Game event "lobby_updated", Tick 655:
+Game event "dota_player_update_hero_selection", Tick 647:
+- "tabcycle" = "0"
+Game event "dota_inventory_changed", Tick 647:
+Game event "dota_portrait_unit_stats_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_portrait_ability_layout_changed", Tick 647:
+Game event "dota_ability_changed", Tick 647:
+Game event "dota_player_shop_changed", Tick 647:
+- "prevshopmask" = "0"
+- "shopmask" = "1"
+Game event "dota_portrait_unit_modifiers_changed", Tick 647:
+Game event "game_rules_state_change", Tick 652:
+Game event "game_rules_state_change", Tick 652:
+C:Gamerules: entering state 'DOTA_GAMERULES_STATE_PRE_GAME'
+Game event "game_rules_state_change", Tick 664:
+Server event "dota_game_state_change", Tick 0:
+- "old_state" = "2"
+- "new_state" = "4"
+Game event "dota_portrait_unit_stats_changed", Tick 666:
+Game event "dota_player_update_selected_unit", Tick 666:
+Game event "dota_portrait_unit_stats_changed", Tick 669:
+Game event "dota_player_pick_hero", Tick 715:
+- "player" = "3"
+- "heroindex" = "569"
+- "hero" = "npc_dota_hero_windrunner"
+MODELCOMBINER: Combined model models/heroes/windrunner/windrunner_c_53.vmdl in 1.953125 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/windrunner/windrunner_c_53.vmdl took 10.174157 ms
+Game event "dota_player_pick_hero", Tick 718:
+- "player" = "4"
+- "heroindex" = "602"
+- "hero" = "npc_dota_hero_omniknight"
+Game event "dota_player_pick_hero", Tick 718:
+- "player" = "5"
+- "heroindex" = "616"
+- "hero" = "npc_dota_hero_oracle"
+MODELCOMBINER: Combined model models/heroes/omniknight/omniknight_c_54.vmdl in 0.976563 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/omniknight/omniknight_c_54.vmdl took 13.968181 ms
+MODELCOMBINER: Combined model models/heroes/oracle/oracle_c_55.vmdl in 1.953125 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/oracle/oracle_c_55.vmdl took 4.896172 ms
+Game event "dota_player_pick_hero", Tick 721:
+- "player" = "6"
+- "heroindex" = "634"
+- "hero" = "npc_dota_hero_necrolyte"
+Game event "dota_player_pick_hero", Tick 721:
+- "player" = "7"
+- "heroindex" = "646"
+- "hero" = "npc_dota_hero_nevermore"
+MODELCOMBINER: Combined model models/heroes/necrolyte/necrolyte_c_56.vmdl in 1.953125 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/necrolyte/necrolyte_c_56.vmdl took 4.431242 ms
+Game event "dota_player_pick_hero", Tick 727:
+- "player" = "8"
+- "heroindex" = "659"
+- "hero" = "npc_dota_hero_bounty_hunter"
+MODELCOMBINER: Combined model models/heroes/bounty_hunter/bounty_hunter_c_57.vmdl in 0.976563 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/bounty_hunter/bounty_hunter_c_57.vmdl took 1.874242 ms
+Game event "dota_player_pick_hero", Tick 730:
+- "player" = "9"
+- "heroindex" = "673"
+- "hero" = "npc_dota_hero_axe"
+MODELCOMBINER: Combined model models/heroes/axe/axe_c_58.vmdl in 0.976563 ms
+MODELCOMBINER: Model Combiner Callbacks for models/heroes/axe/axe_c_58.vmdl took 2.171290 ms
+Game event "dota_player_pick_hero", Tick 731:
+- "player" = "10"
+- "heroindex" = "686"
+- "hero" = "npc_dota_hero_kunkka"
+Game event "dota_player_pick_hero", Tick 731:
+- "player" = "11"
+- "heroindex" = "701"
+- "hero" = "npc_dota_hero_sand_king"
+] condump
+console dumped to condump015.txt
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_item_purchase", Tick 1102:
+- "userid" = "1"
+- "itemid" = "45"
+Game event "spec_item_pickup", Tick 1102:
+- "player_id" = "1"
+- "item_name" = "courier"
+- "purchase" = "1"
+Game event "dota_item_purchase", Tick 1102:
+- "userid" = "2"
+- "itemid" = "42"
+Game event "spec_item_pickup", Tick 1102:
+- "player_id" = "2"
+- "item_name" = "ward_observer"
+- "purchase" = "1"
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1102:
+Game event "dota_money_changed", Tick 1103:
+Game event "dota_money_changed", Tick 1103:
+Game event "dota_money_changed", Tick 1103:
+Game event "dota_money_changed", Tick 1103:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1105:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1107:
+Game event "dota_inventory_changed", Tick 1107:
+Game event "dota_inventory_changed", Tick 1107:
+Game event "dota_money_changed", Tick 1108:
+Game event "dota_money_changed", Tick 1108:
+Game event "dota_money_changed", Tick 1108:
+Game event "dota_money_changed", Tick 1108:
+Game event "dota_money_changed", Tick 1109:
+Game event "dota_money_changed", Tick 1109:
+Game event "dota_money_changed", Tick 1109:
+Game event "dota_money_changed", Tick 1109:
+Game event "dota_inventory_changed", Tick 1111:
+Game event "dota_inventory_changed", Tick 1112:
+Game event "dota_inventory_changed", Tick 1113:
+] condump 
