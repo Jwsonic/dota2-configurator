@@ -36,5 +36,6 @@ fs.watch(dotaPath, (event, fName) => {
 
 notifier.notify({
   'title': 'Up and running!',
-  'message': 'Now watching for hero data!'
+  'message': 'Now watching for hero data!',
+  'icon': path.resolve('.', 'dota2.jpg')
 });
