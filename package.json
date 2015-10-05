@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "BABEL_JEST_STAGE=1 jest",
-    "start": "babel-node main.js"
+    "start": "babel-node src/main.js"
   },
   "jshintConfig": {
     "esnext": true,
