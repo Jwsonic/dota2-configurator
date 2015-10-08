@@ -1,0 +1,1408 @@
+ick 131663:
+Game event "dota_money_changed", Tick 131663:
+Game event "dota_money_changed", Tick 131663:
+Game event "dota_money_changed", Tick 131663:
+Game event "dota_money_changed", Tick 131663:
+Game event "dota_money_changed", Tick 131664:
+Game event "dota_money_changed", Tick 131664:
+Game event "dota_money_changed", Tick 131664:
+Game event "dota_money_changed", Tick 131664:
+Game event "dota_money_changed", Tick 131664:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131664:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131664:
+Game event "dota_action_success", Tick 131670:
+Game event "dota_action_success", Tick 131674:
+Game event "dota_action_success", Tick 131679:
+Game event "dota_money_changed", Tick 131680:
+Game event "dota_money_changed", Tick 131680:
+Game event "dota_money_changed", Tick 131680:
+Game event "dota_money_changed", Tick 131680:
+Game event "dota_money_changed", Tick 131680:
+Game event "dota_money_changed", Tick 131681:
+Game event "dota_money_changed", Tick 131681:
+Game event "dota_money_changed", Tick 131681:
+Game event "dota_money_changed", Tick 131681:
+Game event "dota_money_changed", Tick 131681:
+Game event "dota_inventory_changed", Tick 131681:
+Game event "dota_money_changed", Tick 131682:
+Game event "dota_money_changed", Tick 131682:
+Game event "dota_money_changed", Tick 131682:
+Game event "dota_money_changed", Tick 131682:
+Game event "dota_money_changed", Tick 131682:
+Game event "dota_action_success", Tick 131683:
+Game event "dota_action_success", Tick 131687:
+Game event "dota_action_success", Tick 131687:
+Game event "dota_action_success", Tick 131691:
+Game event "dota_action_success", Tick 131691:
+Game event "dota_action_success", Tick 131696:
+Game event "dota_action_success", Tick 131696:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131698:
+Game event "dota_money_changed", Tick 131700:
+Game event "dota_money_changed", Tick 131700:
+Game event "dota_money_changed", Tick 131700:
+Game event "dota_money_changed", Tick 131700:
+Game event "dota_money_changed", Tick 131700:
+Game event "dota_action_success", Tick 131700:
+Game event "dota_action_success", Tick 131700:
+Game event "dota_money_changed", Tick 131701:
+Game event "dota_money_changed", Tick 131701:
+Game event "dota_money_changed", Tick 131701:
+Game event "dota_money_changed", Tick 131701:
+Game event "dota_money_changed", Tick 131701:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131701:
+Game event "dota_action_success", Tick 131704:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131707:
+Game event "dota_action_success", Tick 131709:
+Game event "dota_action_success", Tick 131709:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131710:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131714:
+Game event "dota_action_success", Tick 131714:
+Game event "dota_action_success", Tick 131714:
+Game event "dota_money_changed", Tick 131716:
+Game event "dota_money_changed", Tick 131716:
+Game event "dota_money_changed", Tick 131716:
+Game event "dota_money_changed", Tick 131716:
+Game event "dota_money_changed", Tick 131716:
+Game event "dota_money_changed", Tick 131717:
+Game event "dota_money_changed", Tick 131717:
+Game event "dota_money_changed", Tick 131717:
+Game event "dota_money_changed", Tick 131717:
+Game event "dota_money_changed", Tick 131717:
+Game event "dota_money_changed", Tick 131718:
+Game event "dota_money_changed", Tick 131718:
+Game event "dota_money_changed", Tick 131718:
+Game event "dota_money_changed", Tick 131718:
+Game event "dota_money_changed", Tick 131718:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131732:
+Game event "dota_money_changed", Tick 131734:
+Game event "dota_money_changed", Tick 131734:
+Game event "dota_money_changed", Tick 131734:
+Game event "dota_money_changed", Tick 131734:
+Game event "dota_money_changed", Tick 131734:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131734:
+Game event "dota_money_changed", Tick 131735:
+Game event "dota_money_changed", Tick 131735:
+Game event "dota_money_changed", Tick 131735:
+Game event "dota_money_changed", Tick 131735:
+Game event "dota_money_changed", Tick 131735:
+Game event "dota_money_changed", Tick 131736:
+Game event "dota_money_changed", Tick 131736:
+Game event "dota_money_changed", Tick 131736:
+Game event "dota_money_changed", Tick 131736:
+Game event "dota_money_changed", Tick 131736:
+Game event "dota_action_success", Tick 131737:
+Game event "dota_action_success", Tick 131741:
+Game event "dota_action_success", Tick 131741:
+Game event "dota_inventory_changed", Tick 131744:
+Game event "dota_inventory_changed", Tick 131748:
+Game event "dota_money_changed", Tick 131752:
+Game event "dota_money_changed", Tick 131752:
+Game event "dota_money_changed", Tick 131752:
+Game event "dota_money_changed", Tick 131752:
+Game event "dota_money_changed", Tick 131752:
+Game event "dota_money_changed", Tick 131753:
+Game event "dota_money_changed", Tick 131753:
+Game event "dota_money_changed", Tick 131753:
+Game event "dota_money_changed", Tick 131753:
+Game event "dota_money_changed", Tick 131753:
+Game event "dota_money_changed", Tick 131754:
+Game event "dota_money_changed", Tick 131754:
+Game event "dota_money_changed", Tick 131754:
+Game event "dota_money_changed", Tick 131754:
+Game event "dota_money_changed", Tick 131754:
+Game event "dota_money_changed", Tick 131760:
+Game event "dota_money_changed", Tick 131760:
+Game event "dota_player_kill", Tick 131760:
+- "victim_userid" = "7"
+- "killer1_userid" = "3"
+- "killer2_userid" = "-1"
+- "killer3_userid" = "-1"
+- "killer4_userid" = "-1"
+- "killer5_userid" = "-1"
+- "bounty" = "437"
+- "neutral" = "0"
+- "greevil" = "0"
+Game event "dota_chat_kill_streak", Tick 131760:
+- "gold" = "437"
+- "killer_id" = "3"
+- "killer_streak" = "3"
+- "killer_multikill" = "1"
+- "victim_id" = "7"
+- "victim_streak" = "0"
+Game event "dota_money_changed", Tick 131760:
+Game event "dota_money_changed", Tick 131760:
+Game event "dota_money_changed", Tick 131761:
+Game event "dota_money_changed", Tick 131761:
+Game event "dota_money_changed", Tick 131762:
+Game event "dota_money_changed", Tick 131762:
+Game event "dota_action_success", Tick 131768:
+Game event "dota_money_changed", Tick 131770:
+Game event "dota_money_changed", Tick 131770:
+Game event "dota_money_changed", Tick 131770:
+Game event "dota_money_changed", Tick 131770:
+Game event "dota_money_changed", Tick 131770:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131770:
+Game event "dota_money_changed", Tick 131771:
+Game event "dota_money_changed", Tick 131771:
+Game event "dota_money_changed", Tick 131771:
+Game event "dota_money_changed", Tick 131771:
+Game event "dota_money_changed", Tick 131771:
+Game event "dota_action_success", Tick 131771:
+Game event "dota_money_changed", Tick 131772:
+Game event "dota_money_changed", Tick 131772:
+Game event "dota_money_changed", Tick 131772:
+Game event "dota_money_changed", Tick 131772:
+Game event "dota_money_changed", Tick 131772:
+Game event "dota_money_changed", Tick 131773:
+Game event "dota_money_changed", Tick 131773:
+Game event "dota_money_changed", Tick 131773:
+Game event "dota_money_changed", Tick 131773:
+Game event "dota_money_changed", Tick 131773:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131776:
+Game event "dota_action_success", Tick 131777:
+Game event "dota_action_success", Tick 131782:
+Game event "dota_inventory_changed", Tick 131785:
+Game event "dota_money_changed", Tick 131789:
+Game event "dota_money_changed", Tick 131789:
+Game event "dota_money_changed", Tick 131789:
+Game event "dota_money_changed", Tick 131789:
+Game event "dota_money_changed", Tick 131789:
+Game event "dota_money_changed", Tick 131790:
+Game event "dota_money_changed", Tick 131790:
+Game event "dota_money_changed", Tick 131790:
+Game event "dota_money_changed", Tick 131790:
+Game event "dota_money_changed", Tick 131790:
+Game event "dota_money_changed", Tick 131791:
+Game event "dota_money_changed", Tick 131791:
+Game event "dota_money_changed", Tick 131791:
+Game event "dota_money_changed", Tick 131791:
+Game event "dota_money_changed", Tick 131791:
+Game event "dota_action_success", Tick 131795:
+Game event "dota_money_changed", Tick 131796:
+Game event "dota_chat_event", Tick 131796:
+- "userid" = "2"
+- "gold" = "0"
+- "message" = "7"
+Game event "dota_inventory_changed", Tick 131796:
+Game event "dota_money_changed", Tick 131797:
+Game event "dota_money_changed", Tick 131797:
+Game event "dota_money_changed", Tick 131797:
+Game event "dota_player_kill", Tick 131797:
+- "victim_userid" = "8"
+- "killer1_userid" = "1"
+- "killer2_userid" = "-1"
+- "killer3_userid" = "-1"
+- "killer4_userid" = "-1"
+- "killer5_userid" = "-1"
+- "bounty" = "769"
+- "neutral" = "0"
+- "greevil" = "0"
+Game event "dota_action_success", Tick 131798:
+Game event "dota_money_changed", Tick 131799:
+Game event "dota_money_changed", Tick 131799:
+Game event "dota_money_changed", Tick 131799:
+Game event "dota_money_changed", Tick 131800:
+Game event "dota_money_changed", Tick 131800:
+Game event "dota_hud_error_message", Tick 131800:
+- "reason" = "19"
+- "message" = ""
+Game event "dota_action_success", Tick 131802:
+Game event "dota_action_success", Tick 131802:
+Game event "dota_money_changed", Tick 131806:
+Game event "dota_money_changed", Tick 131806:
+Game event "dota_money_changed", Tick 131806:
+Game event "dota_money_changed", Tick 131806:
+Game event "dota_money_changed", Tick 131806:
+Game event "dota_money_changed", Tick 131807:
+Game event "dota_money_changed", Tick 131807:
+Game event "dota_money_changed", Tick 131807:
+Game event "dota_money_changed", Tick 131807:
+Game event "dota_money_changed", Tick 131807:
+Game event "dota_money_changed", Tick 131808:
+Game event "dota_money_changed", Tick 131808:
+Game event "dota_money_changed", Tick 131808:
+Game event "dota_money_changed", Tick 131808:
+Game event "dota_money_changed", Tick 131808:
+Game event "dota_money_changed", Tick 131809:
+Game event "dota_money_changed", Tick 131809:
+Game event "dota_money_changed", Tick 131809:
+Game event "dota_money_changed", Tick 131809:
+Game event "dota_money_changed", Tick 131809:
+Game event "dota_action_success", Tick 131811:
+Game event "dota_action_success", Tick 131815:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131817:
+Game event "dota_action_success", Tick 131820:
+Game event "dota_action_success", Tick 131820:
+Game event "dota_money_changed", Tick 131824:
+Game event "dota_money_changed", Tick 131824:
+Game event "dota_money_changed", Tick 131824:
+Game event "dota_money_changed", Tick 131824:
+Game event "dota_money_changed", Tick 131824:
+Game event "dota_money_changed", Tick 131825:
+Game event "dota_money_changed", Tick 131825:
+Game event "dota_money_changed", Tick 131825:
+Game event "dota_money_changed", Tick 131825:
+Game event "dota_money_changed", Tick 131825:
+Game event "dota_money_changed", Tick 131826:
+Game event "dota_money_changed", Tick 131826:
+Game event "dota_money_changed", Tick 131826:
+Game event "dota_money_changed", Tick 131826:
+Game event "dota_money_changed", Tick 131826:
+Game event "dota_action_success", Tick 131830:
+Game event "dota_action_success", Tick 131834:
+Game event "dota_action_success", Tick 131839:
+Game event "dota_action_success", Tick 131839:
+Game event "dota_money_changed", Tick 131842:
+Game event "dota_money_changed", Tick 131842:
+Game event "dota_money_changed", Tick 131842:
+Game event "dota_money_changed", Tick 131842:
+Game event "dota_money_changed", Tick 131842:
+Game event "dota_money_changed", Tick 131843:
+Game event "dota_money_changed", Tick 131843:
+Game event "dota_money_changed", Tick 131843:
+Game event "dota_money_changed", Tick 131843:
+Game event "dota_money_changed", Tick 131843:
+Game event "dota_money_changed", Tick 131844:
+Game event "dota_money_changed", Tick 131844:
+Game event "dota_money_changed", Tick 131844:
+Game event "dota_money_changed", Tick 131844:
+Game event "dota_money_changed", Tick 131844:
+Game event "dota_action_success", Tick 131844:
+Game event "dota_money_changed", Tick 131858:
+Game event "dota_money_changed", Tick 131858:
+Game event "dota_player_kill", Tick 131858:
+- "victim_userid" = "6"
+- "killer1_userid" = "1"
+- "killer2_userid" = "-1"
+- "killer3_userid" = "-1"
+- "killer4_userid" = "-1"
+- "killer5_userid" = "-1"
+- "bounty" = "612"
+- "neutral" = "0"
+- "greevil" = "0"
+Game event "dota_chat_kill_streak", Tick 131858:
+- "gold" = "612"
+- "killer_id" = "1"
+- "killer_streak" = "3"
+- "killer_multikill" = "2"
+- "victim_id" = "6"
+- "victim_streak" = "1"
+Game event "dota_money_changed", Tick 131858:
+Game event "dota_money_changed", Tick 131858:
+Game event "dota_money_changed", Tick 131859:
+Game event "dota_money_changed", Tick 131859:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131860:
+Game event "dota_money_changed", Tick 131861:
+Game event "dota_money_changed", Tick 131861:
+Game event "dota_money_changed", Tick 131861:
+Game event "dota_money_changed", Tick 131861:
+Game event "dota_money_changed", Tick 131861:
+Game event "dota_money_changed", Tick 131862:
+Game event "dota_money_changed", Tick 131862:
+Game event "dota_money_changed", Tick 131862:
+Game event "dota_money_changed", Tick 131862:
+Game event "dota_money_changed", Tick 131862:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131872:
+Game event "dota_action_success", Tick 131873:
+Game event "dota_money_changed", Tick 131878:
+Game event "dota_money_changed", Tick 131878:
+Game event "dota_money_changed", Tick 131878:
+Game event "dota_money_changed", Tick 131878:
+Game event "dota_money_changed", Tick 131878:
+Game event "dota_action_success", Tick 131878:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_money_changed", Tick 131879:
+Game event "dota_action_success", Tick 131882:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131891:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131896:
+Game event "dota_money_changed", Tick 131897:
+Game event "dota_money_changed", Tick 131897:
+Game event "dota_money_changed", Tick 131897:
+Game event "dota_money_changed", Tick 131897:
+Game event "dota_money_changed", Tick 131897:
+Game event "dota_action_success", Tick 131897:
+Game event "dota_money_changed", Tick 131898:
+Game event "dota_money_changed", Tick 131898:
+Game event "dota_money_changed", Tick 131898:
+Game event "dota_money_changed", Tick 131898:
+Game event "dota_money_changed", Tick 131898:
+Game event "dota_money_changed", Tick 131899:
+Game event "dota_money_changed", Tick 131899:
+Game event "dota_money_changed", Tick 131899:
+Game event "dota_money_changed", Tick 131899:
+Game event "dota_money_changed", Tick 131899:
+Game event "dota_action_success", Tick 131902:
+Game event "dota_action_success", Tick 131902:
+Game event "dota_money_changed", Tick 131915:
+Game event "dota_money_changed", Tick 131915:
+Game event "dota_money_changed", Tick 131915:
+Game event "dota_money_changed", Tick 131915:
+Game event "dota_money_changed", Tick 131915:
+Game event "dota_money_changed", Tick 131916:
+Game event "dota_money_changed", Tick 131916:
+Game event "dota_money_changed", Tick 131916:
+Game event "dota_money_changed", Tick 131916:
+Game event "dota_money_changed", Tick 131916:
+Game event "dota_money_changed", Tick 131917:
+Game event "dota_money_changed", Tick 131917:
+Game event "dota_money_changed", Tick 131917:
+Game event "dota_money_changed", Tick 131917:
+Game event "dota_money_changed", Tick 131917:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131924:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131924:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131925:
+Game event "dota_inventory_changed", Tick 131928:
+Game event "dota_money_changed", Tick 131933:
+Game event "dota_money_changed", Tick 131933:
+Game event "dota_money_changed", Tick 131933:
+Game event "dota_money_changed", Tick 131933:
+Game event "dota_money_changed", Tick 131933:
+Game event "dota_money_changed", Tick 131934:
+Game event "dota_money_changed", Tick 131934:
+Game event "dota_money_changed", Tick 131934:
+Game event "dota_money_changed", Tick 131934:
+Game event "dota_money_changed", Tick 131934:
+Game event "dota_money_changed", Tick 131935:
+Game event "dota_money_changed", Tick 131935:
+Game event "dota_money_changed", Tick 131935:
+Game event "dota_money_changed", Tick 131935:
+Game event "dota_money_changed", Tick 131935:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131949:
+Game event "dota_money_changed", Tick 131951:
+Game event "dota_money_changed", Tick 131951:
+Game event "dota_money_changed", Tick 131951:
+Game event "dota_money_changed", Tick 131951:
+Game event "dota_money_changed", Tick 131951:
+Game event "dota_action_success", Tick 131951:
+Game event "dota_money_changed", Tick 131952:
+Game event "dota_money_changed", Tick 131952:
+Game event "dota_money_changed", Tick 131952:
+Game event "dota_money_changed", Tick 131952:
+Game event "dota_money_changed", Tick 131952:
+Game event "dota_money_changed", Tick 131953:
+Game event "dota_money_changed", Tick 131953:
+Game event "dota_money_changed", Tick 131953:
+Game event "dota_money_changed", Tick 131953:
+Game event "dota_money_changed", Tick 131953:
+Game event "dota_chat_event", Tick 131955:
+- "userid" = "6"
+- "gold" = "0"
+- "message" = "7"
+Game event "dota_action_success", Tick 131956:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131958:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131959:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131960:
+Game event "dota_action_success", Tick 131960:
+Game event "dota_action_success", Tick 131965:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_money_changed", Tick 131969:
+Game event "dota_action_success", Tick 131970:
+Game event "dota_action_success", Tick 131970:
+Game event "dota_money_changed", Tick 131971:
+Game event "dota_money_changed", Tick 131971:
+Game event "dota_money_changed", Tick 131971:
+Game event "dota_money_changed", Tick 131971:
+Game event "dota_money_changed", Tick 131971:
+Game event "dota_money_changed", Tick 131972:
+Game event "dota_money_changed", Tick 131972:
+Game event "dota_money_changed", Tick 131972:
+Game event "dota_money_changed", Tick 131972:
+Game event "dota_money_changed", Tick 131972:
+Game event "dota_money_changed", Tick 131988:
+Game event "dota_money_changed", Tick 131988:
+Game event "dota_money_changed", Tick 131988:
+Game event "dota_money_changed", Tick 131988:
+Game event "dota_money_changed", Tick 131988:
+Game event "dota_inventory_changed", Tick 131988:
+Game event "dota_money_changed", Tick 131990:
+Game event "dota_money_changed", Tick 131990:
+Game event "dota_money_changed", Tick 131990:
+Game event "dota_money_changed", Tick 131990:
+Game event "dota_money_changed", Tick 131990:
+Game event "dota_money_changed", Tick 131991:
+Game event "dota_money_changed", Tick 131991:
+Game event "dota_money_changed", Tick 131991:
+Game event "dota_money_changed", Tick 131991:
+Game event "dota_money_changed", Tick 131991:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131996:
+Game event "dota_portrait_unit_modifiers_changed", Tick 131998:
+Game event "dota_money_changed", Tick 132005:
+Game event "dota_money_changed", Tick 132005:
+Game event "dota_money_changed", Tick 132005:
+Game event "dota_money_changed", Tick 132005:
+Game event "dota_money_changed", Tick 132005:
+Game event "dota_money_changed", Tick 132006:
+Game event "dota_money_changed", Tick 132006:
+Game event "dota_money_changed", Tick 132006:
+Game event "dota_money_changed", Tick 132006:
+Game event "dota_money_changed", Tick 132006:
+Game event "dota_money_changed", Tick 132007:
+Game event "dota_money_changed", Tick 132007:
+Game event "dota_money_changed", Tick 132007:
+Game event "dota_money_changed", Tick 132007:
+Game event "dota_money_changed", Tick 132007:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132008:
+Game event "dota_inventory_changed", Tick 132014:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132021:
+Game event "dota_money_changed", Tick 132023:
+Game event "dota_money_changed", Tick 132023:
+Game event "dota_money_changed", Tick 132023:
+Game event "dota_money_changed", Tick 132023:
+Game event "dota_money_changed", Tick 132023:
+Game event "dota_money_changed", Tick 132024:
+Game event "dota_money_changed", Tick 132024:
+Game event "dota_money_changed", Tick 132024:
+Game event "dota_money_changed", Tick 132024:
+Game event "dota_money_changed", Tick 132024:
+Game event "dota_money_changed", Tick 132025:
+Game event "dota_money_changed", Tick 132025:
+Game event "dota_money_changed", Tick 132025:
+Game event "dota_money_changed", Tick 132025:
+Game event "dota_money_changed", Tick 132025:
+Game event "dota_inventory_changed", Tick 132040:
+Game event "dota_money_changed", Tick 132042:
+Game event "dota_money_changed", Tick 132042:
+Game event "dota_money_changed", Tick 132042:
+Game event "dota_money_changed", Tick 132042:
+Game event "dota_money_changed", Tick 132042:
+Game event "dota_money_changed", Tick 132043:
+Game event "dota_money_changed", Tick 132043:
+Game event "dota_money_changed", Tick 132043:
+Game event "dota_money_changed", Tick 132043:
+Game event "dota_money_changed", Tick 132043:
+Game event "dota_money_changed", Tick 132044:
+Game event "dota_money_changed", Tick 132044:
+Game event "dota_money_changed", Tick 132044:
+Game event "dota_money_changed", Tick 132044:
+Game event "dota_money_changed", Tick 132044:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132059:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_money_changed", Tick 132061:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132065:
+Game event "dota_inventory_changed", Tick 132071:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132077:
+Game event "dota_money_changed", Tick 132079:
+Game event "dota_money_changed", Tick 132079:
+Game event "dota_money_changed", Tick 132079:
+Game event "dota_money_changed", Tick 132079:
+Game event "dota_money_changed", Tick 132079:
+Game event "dota_money_changed", Tick 132080:
+Game event "dota_money_changed", Tick 132080:
+Game event "dota_money_changed", Tick 132080:
+Game event "dota_money_changed", Tick 132080:
+Game event "dota_money_changed", Tick 132080:
+Game event "dota_inventory_changed", Tick 132086:
+Game event "dota_money_changed", Tick 132095:
+Game event "dota_money_changed", Tick 132095:
+Game event "dota_money_changed", Tick 132095:
+Game event "dota_money_changed", Tick 132095:
+Game event "dota_money_changed", Tick 132095:
+Game event "dota_money_changed", Tick 132096:
+Game event "dota_money_changed", Tick 132096:
+Game event "dota_money_changed", Tick 132096:
+Game event "dota_money_changed", Tick 132096:
+Game event "dota_money_changed", Tick 132096:
+Game event "dota_money_changed", Tick 132097:
+Game event "dota_money_changed", Tick 132097:
+Game event "dota_money_changed", Tick 132097:
+Game event "dota_money_changed", Tick 132097:
+Game event "dota_money_changed", Tick 132097:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132102:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132102:
+Game event "dota_money_changed", Tick 132113:
+Game event "dota_money_changed", Tick 132113:
+Game event "dota_money_changed", Tick 132113:
+Game event "dota_money_changed", Tick 132113:
+Game event "dota_money_changed", Tick 132113:
+Game event "dota_money_changed", Tick 132114:
+Game event "dota_money_changed", Tick 132114:
+Game event "dota_money_changed", Tick 132114:
+Game event "dota_money_changed", Tick 132114:
+Game event "dota_money_changed", Tick 132114:
+Game event "dota_money_changed", Tick 132115:
+Game event "dota_money_changed", Tick 132115:
+Game event "dota_money_changed", Tick 132115:
+Game event "dota_money_changed", Tick 132115:
+Game event "dota_money_changed", Tick 132115:
+Game event "dota_money_changed", Tick 132131:
+Game event "dota_money_changed", Tick 132131:
+Game event "dota_money_changed", Tick 132131:
+Game event "dota_money_changed", Tick 132131:
+Game event "dota_money_changed", Tick 132131:
+Game event "dota_money_changed", Tick 132132:
+Game event "dota_money_changed", Tick 132132:
+Game event "dota_money_changed", Tick 132132:
+Game event "dota_money_changed", Tick 132132:
+Game event "dota_money_changed", Tick 132132:
+Game event "dota_money_changed", Tick 132133:
+Game event "dota_money_changed", Tick 132133:
+Game event "dota_money_changed", Tick 132133:
+Game event "dota_money_changed", Tick 132133:
+Game event "dota_money_changed", Tick 132133:
+Game event "dota_money_changed", Tick 132150:
+Game event "dota_money_changed", Tick 132150:
+Game event "dota_money_changed", Tick 132150:
+Game event "dota_money_changed", Tick 132150:
+Game event "dota_money_changed", Tick 132150:
+Game event "dota_money_changed", Tick 132151:
+Game event "dota_money_changed", Tick 132151:
+Game event "dota_money_changed", Tick 132151:
+Game event "dota_money_changed", Tick 132151:
+Game event "dota_money_changed", Tick 132151:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132151:
+Game event "dota_money_changed", Tick 132152:
+Game event "dota_money_changed", Tick 132152:
+Game event "dota_money_changed", Tick 132152:
+Game event "dota_money_changed", Tick 132152:
+Game event "dota_money_changed", Tick 132152:
+Game event "dota_inventory_changed", Tick 132155:
+Game event "dota_money_changed", Tick 132168:
+Game event "dota_money_changed", Tick 132168:
+Game event "dota_money_changed", Tick 132168:
+Game event "dota_money_changed", Tick 132168:
+Game event "dota_money_changed", Tick 132168:
+Game event "dota_money_changed", Tick 132169:
+Game event "dota_money_changed", Tick 132169:
+Game event "dota_money_changed", Tick 132169:
+Game event "dota_money_changed", Tick 132169:
+Game event "dota_money_changed", Tick 132169:
+Game event "dota_money_changed", Tick 132170:
+Game event "dota_money_changed", Tick 132170:
+Game event "dota_money_changed", Tick 132170:
+Game event "dota_money_changed", Tick 132170:
+Game event "dota_money_changed", Tick 132170:
+Game event "dota_money_changed", Tick 132181:
+Game event "dota_money_changed", Tick 132181:
+Game event "dota_money_changed", Tick 132181:
+Game event "dota_player_kill", Tick 132181:
+- "victim_userid" = "9"
+- "killer1_userid" = "1"
+- "killer2_userid" = "-1"
+- "killer3_userid" = "-1"
+- "killer4_userid" = "-1"
+- "killer5_userid" = "-1"
+- "bounty" = "532"
+- "neutral" = "0"
+- "greevil" = "0"
+Game event "dota_chat_kill_streak", Tick 132181:
+- "gold" = "532"
+- "killer_id" = "1"
+- "killer_streak" = "4"
+- "killer_multikill" = "3"
+- "victim_id" = "9"
+- "victim_streak" = "0"
+Game event "dota_inventory_changed", Tick 132181:
+Game event "dota_money_changed", Tick 132183:
+Game event "dota_money_changed", Tick 132183:
+Game event "dota_money_changed", Tick 132183:
+Game event "dota_money_changed", Tick 132186:
+Game event "dota_money_changed", Tick 132186:
+Game event "dota_money_changed", Tick 132186:
+Game event "dota_money_changed", Tick 132186:
+Game event "dota_money_changed", Tick 132186:
+Game event "dota_action_success", Tick 132186:
+Game event "dota_money_changed", Tick 132187:
+Game event "dota_money_changed", Tick 132187:
+Game event "dota_money_changed", Tick 132187:
+Game event "dota_money_changed", Tick 132187:
+Game event "dota_money_changed", Tick 132187:
+Game event "dota_money_changed", Tick 132188:
+Game event "dota_money_changed", Tick 132188:
+Game event "dota_money_changed", Tick 132188:
+Game event "dota_money_changed", Tick 132188:
+Game event "dota_money_changed", Tick 132188:
+Game event "dota_action_success", Tick 132191:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132194:
+Game event "dota_action_success", Tick 132195:
+Game event "dota_action_success", Tick 132200:
+Game event "dota_money_changed", Tick 132203:
+Game event "dota_money_changed", Tick 132203:
+Game event "dota_money_changed", Tick 132203:
+Game event "dota_money_changed", Tick 132203:
+Game event "dota_money_changed", Tick 132203:
+Game event "dota_money_changed", Tick 132205:
+Game event "dota_money_changed", Tick 132205:
+Game event "dota_money_changed", Tick 132205:
+Game event "dota_money_changed", Tick 132205:
+Game event "dota_money_changed", Tick 132205:
+Game event "dota_action_success", Tick 132205:
+Game event "dota_money_changed", Tick 132206:
+Game event "dota_money_changed", Tick 132206:
+Game event "dota_money_changed", Tick 132206:
+Game event "dota_money_changed", Tick 132206:
+Game event "dota_money_changed", Tick 132206:
+Game event "dota_action_success", Tick 132210:
+Game event "dota_action_success", Tick 132215:
+Game event "dota_inventory_changed", Tick 132216:
+Game event "dota_action_success", Tick 132218:
+Game event "dota_money_changed", Tick 132222:
+Game event "dota_money_changed", Tick 132222:
+Game event "dota_money_changed", Tick 132222:
+Game event "dota_money_changed", Tick 132222:
+Game event "dota_money_changed", Tick 132222:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_money_changed", Tick 132223:
+Game event "dota_action_success", Tick 132226:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132227:
+Game event "dota_money_changed", Tick 132239:
+Game event "dota_money_changed", Tick 132239:
+Game event "dota_money_changed", Tick 132239:
+Game event "dota_money_changed", Tick 132239:
+Game event "dota_money_changed", Tick 132239:
+Game event "dota_money_changed", Tick 132241:
+Game event "dota_money_changed", Tick 132241:
+Game event "dota_money_changed", Tick 132241:
+Game event "dota_money_changed", Tick 132241:
+Game event "dota_money_changed", Tick 132241:
+Game event "dota_money_changed", Tick 132242:
+Game event "dota_money_changed", Tick 132242:
+Game event "dota_money_changed", Tick 132242:
+Game event "dota_money_changed", Tick 132242:
+Game event "dota_money_changed", Tick 132242:
+Game event "dota_inventory_changed", Tick 132254:
+Game event "dota_money_changed", Tick 132258:
+Game event "dota_money_changed", Tick 132258:
+Game event "dota_money_changed", Tick 132258:
+Game event "dota_money_changed", Tick 132258:
+Game event "dota_money_changed", Tick 132258:
+Game event "dota_money_changed", Tick 132259:
+Game event "dota_money_changed", Tick 132259:
+Game event "dota_money_changed", Tick 132259:
+Game event "dota_money_changed", Tick 132259:
+Game event "dota_money_changed", Tick 132259:
+Game event "dota_money_changed", Tick 132260:
+Game event "dota_money_changed", Tick 132260:
+Game event "dota_money_changed", Tick 132260:
+Game event "dota_money_changed", Tick 132260:
+Game event "dota_money_changed", Tick 132260:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132275:
+Game event "dota_money_changed", Tick 132276:
+Game event "dota_money_changed", Tick 132276:
+Game event "dota_money_changed", Tick 132276:
+Game event "dota_money_changed", Tick 132276:
+Game event "dota_money_changed", Tick 132276:
+Game event "dota_money_changed", Tick 132277:
+Game event "dota_money_changed", Tick 132277:
+Game event "dota_money_changed", Tick 132277:
+Game event "dota_money_changed", Tick 132277:
+Game event "dota_money_changed", Tick 132277:
+Game event "dota_money_changed", Tick 132278:
+Game event "dota_money_changed", Tick 132278:
+Game event "dota_money_changed", Tick 132278:
+Game event "dota_money_changed", Tick 132278:
+Game event "dota_money_changed", Tick 132278:
+Game event "dota_money_changed", Tick 132294:
+Game event "dota_money_changed", Tick 132294:
+Game event "dota_money_changed", Tick 132294:
+Game event "dota_money_changed", Tick 132294:
+Game event "dota_money_changed", Tick 132294:
+Game event "dota_money_changed", Tick 132295:
+Game event "dota_money_changed", Tick 132295:
+Game event "dota_money_changed", Tick 132295:
+Game event "dota_money_changed", Tick 132295:
+Game event "dota_money_changed", Tick 132295:
+Game event "dota_money_changed", Tick 132296:
+Game event "dota_money_changed", Tick 132296:
+Game event "dota_money_changed", Tick 132296:
+Game event "dota_money_changed", Tick 132296:
+Game event "dota_money_changed", Tick 132296:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132304:
+Game event "dota_money_changed", Tick 132312:
+Game event "dota_money_changed", Tick 132312:
+Game event "dota_money_changed", Tick 132312:
+Game event "dota_money_changed", Tick 132312:
+Game event "dota_money_changed", Tick 132312:
+Game event "dota_money_changed", Tick 132313:
+Game event "dota_money_changed", Tick 132313:
+Game event "dota_money_changed", Tick 132313:
+Game event "dota_money_changed", Tick 132313:
+Game event "dota_money_changed", Tick 132313:
+Game event "dota_money_changed", Tick 132314:
+Game event "dota_money_changed", Tick 132314:
+Game event "dota_money_changed", Tick 132314:
+Game event "dota_money_changed", Tick 132314:
+Game event "dota_money_changed", Tick 132314:
+Game event "dota_money_changed", Tick 132316:
+Game event "dota_money_changed", Tick 132316:
+Game event "dota_money_changed", Tick 132316:
+Game event "dota_player_kill", Tick 132316:
+- "victim_userid" = "6"
+- "killer1_userid" = "2"
+- "killer2_userid" = "-1"
+- "killer3_userid" = "-1"
+- "killer4_userid" = "-1"
+- "killer5_userid" = "-1"
+- "bounty" = "520"
+- "neutral" = "0"
+- "greevil" = "0"
+Game event "dota_money_changed", Tick 132316:
+Game event "dota_money_changed", Tick 132316:
+Game event "dota_money_changed", Tick 132316:
+Game event "dota_money_changed", Tick 132317:
+Game event "dota_money_changed", Tick 132317:
+Game event "dota_money_changed", Tick 132317:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132317:
+Game event "dota_money_changed", Tick 132318:
+Game event "dota_money_changed", Tick 132318:
+Game event "dota_money_changed", Tick 132318:
+Game event "dota_money_changed", Tick 132330:
+Game event "dota_money_changed", Tick 132330:
+Game event "dota_money_changed", Tick 132330:
+Game event "dota_money_changed", Tick 132330:
+Game event "dota_money_changed", Tick 132330:
+Game event "dota_money_changed", Tick 132331:
+Game event "dota_money_changed", Tick 132331:
+Game event "dota_money_changed", Tick 132331:
+Game event "dota_money_changed", Tick 132331:
+Game event "dota_money_changed", Tick 132331:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132331:
+Game event "dota_money_changed", Tick 132332:
+Game event "dota_money_changed", Tick 132332:
+Game event "dota_money_changed", Tick 132332:
+Game event "dota_money_changed", Tick 132332:
+Game event "dota_money_changed", Tick 132332:
+Game event "dota_money_changed", Tick 132338:
+Game event "dota_money_changed", Tick 132338:
+Game event "dota_action_success", Tick 132339:
+Game event "dota_money_changed", Tick 132340:
+Game event "dota_money_changed", Tick 132341:
+Game event "dota_action_success", Tick 132344:
+Game event "dota_money_changed", Tick 132348:
+Game event "dota_money_changed", Tick 132348:
+Game event "dota_money_changed", Tick 132348:
+Game event "dota_money_changed", Tick 132348:
+Game event "dota_money_changed", Tick 132348:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_money_changed", Tick 132349:
+Game event "dota_action_success", Tick 132349:
+Game event "dota_action_success", Tick 132353:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132354:
+Game event "dota_action_success", Tick 132358:
+Game event "dota_money_changed", Tick 132365:
+Game event "dota_money_changed", Tick 132365:
+Game event "dota_money_changed", Tick 132365:
+Game event "dota_money_changed", Tick 132365:
+Game event "dota_money_changed", Tick 132365:
+Game event "dota_money_changed", Tick 132367:
+Game event "dota_money_changed", Tick 132367:
+Game event "dota_money_changed", Tick 132367:
+Game event "dota_money_changed", Tick 132367:
+Game event "dota_money_changed", Tick 132367:
+Game event "dota_money_changed", Tick 132368:
+Game event "dota_money_changed", Tick 132368:
+Game event "dota_money_changed", Tick 132368:
+Game event "dota_money_changed", Tick 132368:
+Game event "dota_money_changed", Tick 132368:
+Game event "dota_money_changed", Tick 132383:
+Game event "dota_money_changed", Tick 132383:
+Game event "dota_item_purchase", Tick 132383:
+- "userid" = "0"
+- "itemid" = "48"
+Game event "spec_item_pickup", Tick 132383:
+- "player_id" = "0"
+- "item_name" = "travel_boots"
+- "purchase" = "1"
+Game event "dota_money_changed", Tick 132384:
+Game event "dota_money_changed", Tick 132384:
+Game event "dota_item_purchase", Tick 132384:
+- "userid" = "0"
+- "itemid" = "220"
+Game event "spec_item_pickup", Tick 132384:
+- "player_id" = "0"
+- "item_name" = "travel_boots_2"
+- "purchase" = "1"
+Game event "dota_money_changed", Tick 132385:
+Game event "dota_money_changed", Tick 132385:
+Game event "dota_money_changed", Tick 132385:
+Game event "dota_money_changed", Tick 132385:
+Game event "dota_money_changed", Tick 132385:
+Game event "dota_money_changed", Tick 132385:
+Game event "dota_money_changed", Tick 132386:
+Game event "dota_money_changed", Tick 132386:
+Game event "dota_money_changed", Tick 132386:
+Game event "dota_money_changed", Tick 132386:
+Game event "dota_money_changed", Tick 132386:
+Game event "dota_money_changed", Tick 132386:
+Game event "dota_money_changed", Tick 132387:
+Game event "dota_money_changed", Tick 132387:
+Game event "dota_money_changed", Tick 132387:
+Game event "dota_money_changed", Tick 132387:
+Game event "dota_money_changed", Tick 132387:
+Game event "dota_money_changed", Tick 132402:
+Game event "dota_money_changed", Tick 132402:
+Game event "dota_money_changed", Tick 132402:
+Game event "dota_money_changed", Tick 132402:
+Game event "dota_money_changed", Tick 132402:
+Game event "dota_money_changed", Tick 132404:
+Game event "dota_money_changed", Tick 132404:
+Game event "dota_money_changed", Tick 132404:
+Game event "dota_money_changed", Tick 132404:
+Game event "dota_money_changed", Tick 132404:
+Game event "dota_money_changed", Tick 132405:
+Game event "dota_money_changed", Tick 132405:
+Game event "dota_money_changed", Tick 132405:
+Game event "dota_money_changed", Tick 132405:
+Game event "dota_money_changed", Tick 132405:
+Game event "dota_money_changed", Tick 132421:
+Game event "dota_money_changed", Tick 132421:
+Game event "dota_money_changed", Tick 132421:
+Game event "dota_money_changed", Tick 132421:
+Game event "dota_money_changed", Tick 132421:
+Game event "dota_money_changed", Tick 132422:
+Game event "dota_money_changed", Tick 132422:
+Game event "dota_money_changed", Tick 132422:
+Game event "dota_money_changed", Tick 132422:
+Game event "dota_money_changed", Tick 132422:
+Game event "dota_money_changed", Tick 132423:
+Game event "dota_money_changed", Tick 132423:
+Game event "dota_money_changed", Tick 132423:
+Game event "dota_money_changed", Tick 132423:
+Game event "dota_money_changed", Tick 132423:
+Game event "dota_money_changed", Tick 132439:
+Game event "dota_money_changed", Tick 132439:
+Game event "dota_money_changed", Tick 132439:
+Game event "dota_money_changed", Tick 132439:
+Game event "dota_money_changed", Tick 132439:
+Game event "dota_money_changed", Tick 132440:
+Game event "dota_money_changed", Tick 132440:
+Game event "dota_money_changed", Tick 132440:
+Game event "dota_money_changed", Tick 132440:
+Game event "dota_money_changed", Tick 132440:
+Game event "dota_money_changed", Tick 132441:
+Game event "dota_money_changed", Tick 132441:
+Game event "dota_money_changed", Tick 132441:
+Game event "dota_money_changed", Tick 132441:
+Game event "dota_money_changed", Tick 132441:
+Game event "dota_starting_position_changed", Tick 132460:
+Game event "dota_starting_position_changed", Tick 132460:
+Game event "dota_starting_position_changed", Tick 132460:
+Game event "dota_starting_position_changed", Tick 132460:
+Game event "dota_starting_position_changed", Tick 132460:
+
+COMBAT SUMMARY
+
+COMBAT SUMMARY
+--- npc_dota_hero_ancient_apparition ---
+--- npc_dota_hero_ancient_apparition ---
+  Total Damage Done: 24346
+  Total Damage Done: 24346
+    to npc_dota_hero_death_prophet: 4916
+    to npc_dota_hero_death_prophet: 4916
+    to npc_dota_hero_pudge: 3831
+    to npc_dota_hero_pudge: 3831
+    to npc_dota_hero_nyx_assassin: 2344
+    to npc_dota_hero_nyx_assassin: 2344
+    to npc_dota_hero_ursa: 7164
+    to npc_dota_hero_ursa: 7164
+    to npc_dota_hero_spirit_breaker: 6091
+    to npc_dota_hero_spirit_breaker: 6091
+    - ability damage -
+    - ability damage -
+    with ancient_apparition_cold_feet(0): 4293
+    with ancient_apparition_cold_feet(0): 4293
+    with ancient_apparition_chilling_touch(2): 997
+    with ancient_apparition_chilling_touch(2): 997
+    with ancient_apparition_ice_blast(3): 14197
+    with ancient_apparition_ice_blast(3): 14197
+    other damage done: 4859
+    other damage done: 4859
+  Total Stuns: 76.50 seconds
+  Total Stuns: 76.50 seconds
+  Total Slows: 75.50 seconds
+  Total Slows: 75.50 seconds
+--- npc_dota_hero_phantom_lancer ---
+--- npc_dota_hero_phantom_lancer ---
+  Total Damage Done: 32153
+  Total Damage Done: 32153
+    to npc_dota_hero_death_prophet: 4354
+    to npc_dota_hero_death_prophet: 4354
+    to npc_dota_hero_pudge: 4781
+    to npc_dota_hero_pudge: 4781
+    to npc_dota_hero_nyx_assassin: 3827
+    to npc_dota_hero_nyx_assassin: 3827
+    to npc_dota_hero_ursa: 8480
+    to npc_dota_hero_ursa: 8480
+    to npc_dota_hero_spirit_breaker: 10711
+    to npc_dota_hero_spirit_breaker: 10711
+    - ability damage -
+    - ability damage -
+    with phantom_lancer_spirit_lance(0): 8604
+    with phantom_lancer_spirit_lance(0): 8604
+    other damage done: 23549
+    other damage done: 23549
+  Total Slows: 188.00 seconds
+  Total Slows: 188.00 seconds
+--- npc_dota_hero_sand_king ---
+--- npc_dota_hero_sand_king ---
+  Total Damage Done: 13320
+  Total Damage Done: 13320
+    to npc_dota_hero_death_prophet: 2125
+    to npc_dota_hero_death_prophet: 2125
+    to npc_dota_hero_pudge: 1585
+    to npc_dota_hero_pudge: 1585
+    to npc_dota_hero_nyx_assassin: 2092
+    to npc_dota_hero_nyx_assassin: 2092
+    to npc_dota_hero_ursa: 4615
+    to npc_dota_hero_ursa: 4615
+    to npc_dota_hero_spirit_breaker: 2903
+    to npc_dota_hero_spirit_breaker: 2903
+    - ability damage -
+    - ability damage -
+    with sandking_burrowstrike(0): 6524
+    with sandking_burrowstrike(0): 6524
+    with sandking_sand_storm(1): 3071
+    with sandking_sand_storm(1): 3071
+    with sandking_caustic_finale(2): 214
+    with sandking_caustic_finale(2): 214
+    with sandking_epicenter(3): 2776
+    with sandking_epicenter(3): 2776
+    other damage done: 735
+    other damage done: 735
+  Total Stuns: 80.29 seconds
+  Total Stuns: 80.29 seconds
+  Total Slows: 48.00 seconds
+  Total Slows: 48.00 seconds
+--- npc_dota_hero_nevermore ---
+--- npc_dota_hero_nevermore ---
+  Total Damage Done: 52471
+  Total Damage Done: 52471
+    to npc_dota_hero_death_prophet: 11601
+    to npc_dota_hero_death_prophet: 11601
+    to npc_dota_hero_pudge: 8468
+    to npc_dota_hero_pudge: 8468
+    to npc_dota_hero_nyx_assassin: 7279
+    to npc_dota_hero_nyx_assassin: 7279
+    to npc_dota_hero_ursa: 17099
+    to npc_dota_hero_ursa: 17099
+    to npc_dota_hero_spirit_breaker: 8024
+    to npc_dota_hero_spirit_breaker: 8024
+    - ability damage -
+    - ability damage -
+    with nevermore_shadowraze1(0): 243
+    with nevermore_shadowraze1(0): 243
+    with nevermore_shadowraze2(1): 836
+    with nevermore_shadowraze2(1): 836
+    with nevermore_shadowraze3(2): 243
+    with nevermore_shadowraze3(2): 243
+    with nevermore_requiem(5): 13448
+    with nevermore_requiem(5): 13448
+    other damage done: 37701
+    other damage done: 37701
+  Total Stuns: 0.26 seconds
+  Total Stuns: 0.26 seconds
+  Total Slows: 315.00 seconds
+  Total Slows: 315.00 seconds
+--- npc_dota_hero_ogre_magi ---
+--- npc_dota_hero_ogre_magi ---
+  Total Damage Done: 24929
+  Total Damage Done: 24929
+    to npc_dota_hero_death_prophet: 5778
+    to npc_dota_hero_death_prophet: 5778
+    to npc_dota_hero_pudge: 3239
+    to npc_dota_hero_pudge: 3239
+    to npc_dota_hero_nyx_assassin: 3004
+    to npc_dota_hero_nyx_assassin: 3004
+    to npc_dota_hero_ursa: 4611
+    to npc_dota_hero_ursa: 4611
+    to npc_dota_hero_spirit_breaker: 8297
+    to npc_dota_hero_spirit_breaker: 8297
+    - ability damage -
+    - ability damage -
+    with ogre_magi_fireblast(0): 10909
+    with ogre_magi_fireblast(0): 10909
+    with ogre_magi_ignite(1): 5746
+    with ogre_magi_ignite(1): 5746
+    with ogre_magi_unrefined_fireblast(3): 5176
+    with ogre_magi_unrefined_fireblast(3): 5176
+    other damage done: 3098
+    other damage done: 3098
+  Total Healing Done: 25
+  Total Healing Done: 25
+  Total Stuns: 78.00 seconds
+  Total Stuns: 78.00 seconds
+  Total Slows: 311.00 seconds
+  Total Slows: 311.00 seconds
+--- npc_dota_hero_death_prophet ---
+--- npc_dota_hero_death_prophet ---
+  Total Damage Done: 32884
+  Total Damage Done: 32884
+    to npc_dota_hero_ancient_apparition: 3782
+    to npc_dota_hero_ancient_apparition: 3782
+    to npc_dota_hero_phantom_lancer: 6187
+    to npc_dota_hero_phantom_lancer: 6187
+    to npc_dota_hero_sand_king: 4646
+    to npc_dota_hero_sand_king: 4646
+    to npc_dota_hero_nevermore: 8845
+    to npc_dota_hero_nevermore: 8845
+    to npc_dota_hero_ogre_magi: 9424
+    to npc_dota_hero_ogre_magi: 9424
+    - ability damage -
+    - ability damage -
+    with death_prophet_carrion_swarm(0): 12821
+    with death_prophet_carrion_swarm(0): 12821
+    with death_prophet_exorcism(3): 13166
+    with death_prophet_exorcism(3): 13166
+    other damage done: 6897
+    other damage done: 6897
+  Total Healing Done: 2
+  Total Healing Done: 2
+  Total Stuns: 30.50 seconds
+  Total Stuns: 30.50 seconds
+  Total Slows: 207.25 seconds
+  Total Slows: 207.25 seconds
+--- npc_dota_hero_pudge ---
+--- npc_dota_hero_pudge ---
+  Total Damage Done: 18243
+  Total Damage Done: 18243
+    to npc_dota_hero_ancient_apparition: 1474
+    to npc_dota_hero_ancient_apparition: 1474
+    to npc_dota_hero_phantom_lancer: 2114
+    to npc_dota_hero_phantom_lancer: 2114
+    to npc_dota_hero_sand_king: 1854
+    to npc_dota_hero_sand_king: 1854
+    to npc_dota_hero_nevermore: 5025
+    to npc_dota_hero_nevermore: 5025
+    to npc_dota_hero_ogre_magi: 7776
+    to npc_dota_hero_ogre_magi: 7776
+    - ability damage -
+    - ability damage -
+    with pudge_meat_hook(0): 5400
+    with pudge_meat_hook(0): 5400
+    with pudge_rot(1): 7511
+    with pudge_rot(1): 7511
+    with pudge_dismember(3): 3361
+    with pudge_dismember(3): 3361
+    other damage done: 1971
+    other damage done: 1971
+  Total Healing Done: 15
+  Total Healing Done: 15
+  Total Stuns: 35.15 seconds
+  Total Stuns: 35.15 seconds
+  Total Slows: 38.50 seconds
+  Total Slows: 38.50 seconds
+--- npc_dota_hero_nyx_assassin ---
+--- npc_dota_hero_nyx_assassin ---
+  Total Damage Done: 17238
+  Total Damage Done: 17238
+    to npc_dota_hero_ancient_apparition: 1243
+    to npc_dota_hero_ancient_apparition: 1243
+    to npc_dota_hero_phantom_lancer: 2822
+    to npc_dota_hero_phantom_lancer: 2822
+    to npc_dota_hero_sand_king: 6664
+    to npc_dota_hero_sand_king: 6664
+    to npc_dota_hero_nevermore: 2672
+    to npc_dota_hero_nevermore: 2672
+    to npc_dota_hero_ogre_magi: 3837
+    to npc_dota_hero_ogre_magi: 3837
+    - ability damage -
+    - ability damage -
+    with nyx_assassin_impale(0): 4935
+    with nyx_assassin_impale(0): 4935
+    with nyx_assassin_mana_burn(1): 5076
+    with nyx_assassin_mana_burn(1): 5076
+    with nyx_assassin_spiked_carapace(2): 2056
+    with nyx_assassin_spiked_carapace(2): 2056
+    with nyx_assassin_vendetta(5): 2981
+    with nyx_assassin_vendetta(5): 2981
+    other damage done: 2190
+    other damage done: 2190
+  Total Healing Done: 2
+  Total Healing Done: 2
+  Total Stuns: 133.35 seconds
+  Total Stuns: 133.35 seconds
+--- npc_dota_hero_ursa ---
+--- npc_dota_hero_ursa ---
+  Total Damage Done: 27195
+  Total Damage Done: 27195
+    to npc_dota_hero_ancient_apparition: 2894
+    to npc_dota_hero_ancient_apparition: 2894
+    to npc_dota_hero_phantom_lancer: 2568
+    to npc_dota_hero_phantom_lancer: 2568
+    to npc_dota_hero_sand_king: 5681
+    to npc_dota_hero_sand_king: 5681
+    to npc_dota_hero_nevermore: 12272
+    to npc_dota_hero_nevermore: 12272
+    to npc_dota_hero_ogre_magi: 3780
+    to npc_dota_hero_ogre_magi: 3780
+    - ability damage -
+    - ability damage -
+    with ursa_earthshock(0): 7874
+    with ursa_earthshock(0): 7874
+    other damage done: 19321
+    other damage done: 19321
+  Total Healing Done: 71
+  Total Healing Done: 71
+  Total Stuns: 16.80 seconds
+  Total Stuns: 16.80 seconds
+  Total Slows: 296.00 seconds
+  Total Slows: 296.00 seconds
+--- npc_dota_hero_spirit_breaker ---
+--- npc_dota_hero_spirit_breaker ---
+  Total Damage Done: 24848
+  Total Damage Done: 24848
+    to npc_dota_hero_ancient_apparition: 3946
+    to npc_dota_hero_ancient_apparition: 3946
+    to npc_dota_hero_phantom_lancer: 1532
+    to npc_dota_hero_phantom_lancer: 1532
+    to npc_dota_hero_sand_king: 5249
+    to npc_dota_hero_sand_king: 5249
+    to npc_dota_hero_nevermore: 6360
+    to npc_dota_hero_nevermore: 6360
+    to npc_dota_hero_ogre_magi: 7761
+    to npc_dota_hero_ogre_magi: 7761
+    - ability damage -
+    - ability damage -
+    with spirit_breaker_greater_bash(2): 8470
+    with spirit_breaker_greater_bash(2): 8470
+    with spirit_breaker_nether_strike(3): 2881
+    with spirit_breaker_nether_strike(3): 2881
+    other damage done: 13497
+    other damage done: 13497
+  Total Healing Done: 32
+  Total Healing Done: 32
+  Total Stuns: 209.40 seconds
+  Total Stuns: 209.40 seconds
+
+
+Game event "game_rules_state_change", Tick 132460:
+C:Gamerules: entering state 'DOTA_GAMERULES_STATE_POST_GAME'
+Game event "dota_match_done_client", Tick 132447:
+Game event "game_rules_state_change", Tick 132447:
+Server event "dota_game_state_change", Tick 0:
+- "old_state" = "5"
+- "new_state" = "6"
+Game event "dota_portrait_unit_modifiers_changed", Tick 132447:
+Game event "lobby_updated", Tick 132452:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_starting_position_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_enemy_money_changed", Tick 132453:
+Game event "dota_player_update_hero_selection", Tick 132460:
+- "tabcycle" = "0"
+Game event "dota_portrait_unit_modifiers_changed", Tick 132461:
+Game event "dota_portrait_unit_modifiers_changed", Tick 132470:
+Game event "persona_updated", Tick 132472:
+- "SteamID" = "0"
+Deleting lobby data from disk.
+Game event "lobby_updated", Tick 132472:
+Game event "inventory_updated", Tick 132475:
+- "itemdef" = "8259"
+- "itemid" = "0"
+Game event "dota_match_signout", Tick 132476:
+Game event "player_disconnect", Tick 132566:
+- "userid" = "8"
+- "reason" = "2"
+- "name" = "Laehl"
+- "networkid" = "[U:1:104663050]"
+Game event "dota_chat_event", Tick 132566:
+- "userid" = "8"
+- "gold" = "0"
+- "message" = "15"
+Game event "lobby_updated", Tick 132634:
+CL:  Disconnecting from server: #GameUI_Disconnect_User
+SwitchToLoop levelload requested:  id [3] addons []
+Received DataRouterToClient from atl#13 (162.254.199.170:27027) when we thought we didn't have a session.  Marking session as active.
+CL:  IGameSystem::LoopDeactivateAllSystems
+HO:  IGameSystem::LoopDeactivateAllSystems
+CL:  CPhysicsGameSystem::UnloadSpawnGroupPhysics(backgrounds/dashboard_parallax_test) no such group
+CL:  CPhysicsGameSystem::UnloadSpawnGroupPhysics(scenes/find_match_status) no such group
+CL:  CPhysicsGameSystem::UnloadSpawnGroupPhysics(scenes/home_button) no such group
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+MarkInterpolationLatchFlagsDirty:  C_BaseEntity::IsLatchedPermissible() == false
+Unloading custom UI:
+CL:  CGameRulesGameSystem::GameShutdown uninstalled game rules
+CL:  CGameRules::CGameRules destructed
+ChangeGameUIState: DOTA_GAME_UI_DOTA_INGAME -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+Idle (levelload)
+CL:  CLoopModeLevelLoad::OnClientFrameSimulate switching to "game" loopmode with addons: 
+SwitchToLoop game requested:  id [3] addons []
+SV:  maxplayers set to 1
+Initializing script VM...
+...done
+CL:  Adding Prequisite CWaitForGameServerStartupPrerequisite to sequence for CGameClientConnectPrerequisite
+CL:  Adding Prequisite CCreateGameClientPrerequisite to sequence for CGameClientConnectPrerequisite
+CL:  Adding Prequisite CConnectGameClientPrerequisite to sequence for CGameClientConnectPrerequisite
+CL:  Adding Prequisite CLoadStartupResourcePrerequisite to sequence for CGameClientConnectPrerequisite
+CL:  Adding Prequisite CLoadSpawnGroupsPrerequisite to sequence for CGameClientConnectPrerequisite
+CL:  Adding Prequisite CFinalizeConnectionPrerequisite to sequence for CGameClientConnectPrerequisite
+- "itemdef" = "10858"
+- "itemid" = "0"
+- "itemdef" = "11145"
+- "itemid" = "0"
+- "itemdef" = "11320"
+- "itemid" = "0"
+- "itemdef" = "11406"
+- "itemid" = "0"
+- "itemdef" = "10731"
+- "itemid" = "0"
+- "itemdef" = "11144"
+- "itemid" = "0"
+- "itemdef" = "10990"
+- "itemid" = "0"
+- "itemdef" = "10706"
+- "itemid" = "0"
+- "itemdef" = "10878"
+- "itemid" = "0"
+SV:  Spawn Server: <empty>
+CL:  CWaitForGameServerStartupPrerequisite done waiting for server
+CL:  PS_SATISFIED CWaitForGameServerStartupPrerequisite in sequence for CGameClientConnectPrerequisite
+CL:  CCreateGameClientJob creating client connection to 'loopback'
+CL:  PS_SATISFIED CCreateGameClientPrerequisite in sequence for CGameClientConnectPrerequisite
+CL:  Sending connect to loopback
+SV:  Sending S2C_CHALLENGE [488919638 auth 2] to loopback
+CL:  Received S2C_CHALLENGE [488919638 auth 2] from loopback
+CL:  Sending C2S_CONNECT [42 protocol 488919638 auth 2] to loopback
+SV:  Receiving C2S_CONNECT [protocol 42 488919638 auth 2] from loopback
+SV:  Sending S2C_CONNECTION to loopback [addons:'']
+SV:  Sending S2C_CONNECTION to loopback [addons:'']
+CL:  Received S2C_CONNECTION from loopback [addons:'']
+CL:  Connected to 'loopback'
+SV:  Sending server info to client 'Neal McBeal the Navy SEAL' at loopback
+SV:  WriteInitialSpawnGroups sending 1 groups
+CL:  PS_SATISFIED CConnectGameClientPrerequisite in sequence for CGameClientConnectPrerequisite
+Game: "Dota 2"
+Map: "<empty>"
+Players: 1 (0 bots) / 1 humans
+Build: 6914
+Server Number: 2
+Initializing script VM...
+...done
+CL:  PS_SATISFIED CLoadStartupResourcePrerequisite in sequence for CGameClientConnectPrerequisite
+CL:  PS_SATISFIED CLoadSpawnGroupsPrerequisite in sequence for CGameClientConnectPrerequisite
+CL:  PS_SATISFIED CFinalizeConnectionPrerequisite in sequence for CGameClientConnectPrerequisite
+CL:  OnStatusFinished for CGameClientConnectPrerequisite
+CL:  CGameClientConnectPrerequisite connection succeeded
+ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_STATE_DASHBOARD
+SV:  IGameSystem::LoopActivateAllSystems
+HO:  IGameSystem::LoopActivateAllSystems
+SV:  Game started
+CL:  IGameSystem::LoopActivateAllSystems
+Failed to load grid nav data, file 'maps/<empty>.gnv' not found!
+**** Panel MapPreview has fill-parent-flow for width, but isn't in a flowing right layout
+SV:  Sending full update to client Neal McBeal the Navy SEAL (reason:  initial update)
+ShouldClientReceiveStringTableUserData called with NULL GameRules() on table userinfo, string 0
+CL:  Receiving uncompressed update from server
+CL:  Signon traffic "client":  incoming 33.364 KB [9 pkts], outgoing 1.319 KB [10 pkts]
+**** Panel MapPreview has fill-parent-flow for width, but isn't in a flowing right layout
+Game event "party_updated", Tick 143:
+Game event "party_updated", Tick 199:
+Game event "persona_updated", Tick 658:
+- "SteamID" = "0"
+Game event "persona_updated", Tick 658:
+- "SteamID" = "0"
+Game event "persona_updated", Tick 658:
+- "SteamID" = "0"
+Discarding inactive session on atl#13 (162.254.199.170:27027).  session_inactivity_timeout
+Game event "party_updated", Tick 3258:
+File error loading resource header "panorama/images/heroes/selection/npc_dota_hero_default_png.vtex_c" (Error: ERROR_FILEOPEN)
+c:\buildslave\source2_dota_rel_win64\build\src\rendersystem\texturebase.cpp(1633):ResourceHandleToData( panorama/images/heroes/selection/npc_dota_hero_default_png.vtex ) failed! Falling back to error texture!
+] condump
+console dumped to condump001.txt
+] condump 
+console dumped to condump002.txt
+] condump 
