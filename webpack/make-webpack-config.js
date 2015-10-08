@@ -156,8 +156,9 @@ module.exports = function(opts) {
   externals.push(
     // put your node 3rd party libraries which can't be built with webpack here (mysql, mongodb, and so on..)
     /^redux(\/.*)?$/,
-    /node-notifier/,
-    /rsvp/
+    /^node-notifier$/,
+    /^rsvp$/,
+    /^del$/
   );
 
   var options = {
