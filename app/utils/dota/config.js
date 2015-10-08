@@ -14,13 +14,7 @@ hideconsole
 let DotaConfig = {
   setUpAutoExec() {
     return pFs.fileExists(autoexecPath)
-      .then(exists => {
-        if (exists) {
-          return pFs.readFile(autoexecPath);
-        } else {
-          return '';
-        }
-      })
+      .then(exists => exists ? pFs.readFile(autoexecPath) : '')
       .then(configData => pFs.writeFile(autoexecPath, `${configData.replace(reConfigSection, '')}${dotaConfig}`));
   }
 };
