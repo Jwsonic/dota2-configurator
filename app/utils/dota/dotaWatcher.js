@@ -1,7 +1,7 @@
 import {exec} from 'child_process';
 import EventEmitter from 'events';
 import {Promise} from 'rsvp';
-import {consoleFilePath} from './vars.js';
+import {consolePath} from './vars.js';
 import fs from 'fs';
 import {stat, readFile} from '../fs.js';
 
@@ -83,7 +83,7 @@ function watchDota() {
         dotaRunning = newDotaRunning;
       }
 
-      return readFile(consoleFilePath);
+      return readFile(consolePath);
     })
     .then(data => {
       if (data && data.length > 0) {

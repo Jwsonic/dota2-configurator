@@ -1,15 +1,13 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import AppContainer from './containers/AppContainer';
-import debug from './utils/debug';
-import './app.css';
-import DotaWatcher from './utils/dota/dotaWatcher';
+import {render} from 'react-dom';
 import notifier from 'node-notifier';
-import path from 'path';
 import del from 'del';
-import {dotaPath, consoleFilePath} from './utils/dota/vars.js';
+import AppContainer from './containers/AppContainer';
+import DotaWatcher from './utils/dota/dotaWatcher.js';
+import DotaConfig from './utils/dota/config.js';
+import './app.css';
 
-var dd = debug('mainApp');
+DotaConfig.setUpAutoExec().then(() => console.log('Autoexec is set up!'));
 
 DotaWatcher.on('start', () => notifier.notify({
   'title': 'Dota is Running!',
@@ -23,7 +21,7 @@ DotaWatcher.on('heroPick', hero => notifier.notify({
 
 DotaWatcher.on('stop', () => {
   console.log('Dota stopped running!');
-  del([consoleFilePath], {force: true}).then(paths => console.log('Finished deleting console.log'));
+  del([consolePath], {force: true}).then(paths => console.log('Finished deleting console.log'));
 });
 
-ReactDOM.render(<AppContainer />, document.getElementById('react-root'));
+render(<AppContainer />, document.getElementById('react-root'));
