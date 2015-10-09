@@ -10,6 +10,12 @@ var jetpack = require('fs-jetpack');
 var utils = require('./utils');
 var generateSpecsImportFile = require('./generate_specs_import');
 
+var gulp = require("gulp");
+var sourcemaps = require("gulp-sourcemaps");
+var babel = require("gulp-babel");
+var concat = require("gulp-concat");
+
+
 var projectDir = jetpack;
 var srcDir = projectDir.cwd('./app');
 var destDir = projectDir.cwd('./build');
@@ -27,11 +33,13 @@ var paths = {
 // -------------------------------------
 
 gulp.task('clean', function(callback) {
-    return destDir.dirAsync('.', { empty: true });
+    return destDir.dirAsync('.', {
+        empty: true
+    });
 });
 
 
-var copyTask = function () {
+var copyTask = function() {
     return projectDir.copyAsync('app', destDir.path(), {
         overwrite: true,
         matching: paths.copyFromAppDir
@@ -41,40 +49,49 @@ gulp.task('copy', ['clean'], copyTask);
 gulp.task('copy-watch', copyTask);
 
 
-var bundle = function (src, dest) {
+var bundle = function(src, dest) {
     var deferred = Q.defer();
 
-    rollup.rollup({
-        entry: src
-    }).then(function (bundle) {
-        var jsFile = pathUtil.basename(dest);
-        var result = bundle.generate({
-            format: 'iife',
-            sourceMap: true,
-            sourceMapFile: jsFile,
-        });
-        return Q.all([
-            destDir.writeAsync(dest, result.code + '\n//# sourceMappingURL=' + jsFile + '.map'),
-            destDir.writeAsync(dest + '.map', result.map.toString()),
-        ]);
-    }).then(function () {
-        deferred.resolve();
-    }).catch(function (err) {
-        console.error(err);
-    });
+    // rollup.rollup({
+    //     entry: src
+    // }).then(function (bundle) {
+    //     var jsFile = pathUtil.basename(dest);
+    //     var result = bundle.generate({
+    //         format: 'iife',
+    //         sourceMap: true,
+    //         sourceMapFile: jsFile,
+    //     });
+    //     return Q.all([
+    //         destDir.writeAsync(dest, result.code + '\n//# sourceMappingURL=' + jsFile + '.map'),
+    //         destDir.writeAsync(dest + '.map', result.map.toString()),
+    //     ]);
+    // }).then(function () {
+    //     deferred.resolve();
+    // }).catch(function (err) {
+    //     console.error(err);
+    // });
+
+    gulp.src(src)
+        .pipe(sourcemaps.init())
+        .pipe(babel({stage: 1}))
+        .pipe(concat(dest))
+        .pipe(sourcemaps.write("."))
+        .pipe(gulp.dest("dist"));
+
+    deferred.resolve();
 
     return deferred.promise;
 };
 
-var bundleApplication = function () {
+var bundleApplication = function() {
     return Q.all([
         bundle(srcDir.path('background.js'), destDir.path('background.js')),
         bundle(srcDir.path('app.js'), destDir.path('app.js')),
     ]);
 };
 
-var bundleSpecs = function () {
-    generateSpecsImportFile().then(function (specEntryPointPath) {
+var bundleSpecs = function() {
+    generateSpecsImportFile().then(function(specEntryPointPath) {
         return Q.all([
             bundle(srcDir.path('background.js'), destDir.path('background.js')),
             bundle(specEntryPointPath, destDir.path('spec.js')),
@@ -82,7 +99,7 @@ var bundleSpecs = function () {
     });
 };
 
-var bundleTask = function () {
+var bundleTask = function() {
     if (utils.getEnvName() === 'test') {
         return bundleSpecs();
     }
@@ -92,16 +109,16 @@ gulp.task('bundle', ['clean'], bundleTask);
 gulp.task('bundle-watch', bundleTask);
 
 
-var lessTask = function () {
+var lessTask = function() {
     return gulp.src('app/stylesheets/main.less')
-    .pipe(less())
-    .pipe(gulp.dest(destDir.path('stylesheets')));
+        .pipe(less())
+        .pipe(gulp.dest(destDir.path('stylesheets')));
 };
 gulp.task('less', ['clean'], lessTask);
 gulp.task('less-watch', lessTask);
 
 
-gulp.task('finalize', ['clean'], function () {
+gulp.task('finalize', ['clean'], function() {
     var manifest = srcDir.read('package.json', 'json');
     // Add "dev" or "test" suffix to name, so Electron will write all data
     // like cookies and localStorage in separate places for each environment.
@@ -122,9 +139,11 @@ gulp.task('finalize', ['clean'], function () {
 });
 
 
-gulp.task('watch', function () {
+gulp.task('watch', function() {
     gulp.watch('app/**/*.js', ['bundle-watch']);
-    gulp.watch(paths.copyFromAppDir, { cwd: 'app' }, ['copy-watch']);
+    gulp.watch(paths.copyFromAppDir, {
+        cwd: 'app'
+    }, ['copy-watch']);
     gulp.watch('app/**/*.less', ['less-watch']);
 });
 
