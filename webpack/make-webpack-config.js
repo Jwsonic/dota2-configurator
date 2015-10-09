@@ -34,35 +34,27 @@ module.exports = function(opts) {
   var cssLoader = opts.minimize ? 'css-loader' : 'css-loader?localIdentName=[path][name]---[local]---[hash:base64:5]';
 
   var stylesheetLoaders = {
-    'css': cssLoader,
-    'less': [ cssLoader, 'less-loader' ],
-    'styl': [ cssLoader, 'stylus-loader' ],
-    'scss|sass': [ cssLoader, 'sass-loader' ]
+    'css': cssLoader
+    // 'less': [ cssLoader, 'less-loader' ],
+    // 'styl': [ cssLoader, 'stylus-loader' ],
+    // 'scss|sass': [ cssLoader, 'sass-loader' ]
   };
 
   var additionalLoaders = [
     // { test: /some-reg-exp$/, loader: 'any-loader' }
   ];
 
-  var alias = {
+  var alias = {};
 
-  };
+  var aliasLoader = {};
 
-  var aliasLoader = {
-
-  };
-
-  var externals = [
-
-  ];
+  var externals = [];
 
   var modulesDirectories = [ 'node_modules' ];
 
   var extensions = [ '', '.js', '.jsx', '.json', '.node' ];
 
-  var publicPath = opts.devServer
-                 ? 'http://localhost:2992/dist/'
-                 : '/dist/';
+  var publicPath = opts.devServer ? 'http://localhost:2992/dist/' : '/dist/';
 
 
   var output = {
@@ -92,9 +84,6 @@ module.exports = function(opts) {
     aliasLoader['react-proxy-loader$'] = 'react-proxy-loader/unavailable';
     externals.push(
       /^react(\/.*)?$/
-      // /^reflux(\/.*)?$/,
-      // 'superagent'
-      // 'async'
     );
     plugins.push(new webpack.optimize.LimitChunkCountPlugin({ maxChunks: 1 }));
   } else {
@@ -107,13 +96,6 @@ module.exports = function(opts) {
   if (opts.commonsChunk) {
     plugins.push(new webpack.optimize.CommonsChunkPlugin('commons', 'commons.js' + (opts.longTermCaching && !opts.prerender ? '?[chunkhash]' : '')));
   }
-
-  // var asyncLoader = {
-  //   test: require('../app/routes/async').map(function(name) {
-  //     return path.join(appRoot, 'routes', name);
-  //   }),
-  //   loader: opts.prerender ? 'react-proxy-loader/unavailable' : 'react-proxy-loader'
-  // };
 
   Object.keys(stylesheetLoaders).forEach(function(ext) {
     var stylesheetLoader = stylesheetLoaders[ext];
@@ -146,7 +128,7 @@ module.exports = function(opts) {
     plugins.push(
       new webpack.DefinePlugin({
         'process.env': {
-          NODE_ENV: "'production'"
+          NODE_ENV: '\'production\''
         }
       }),
       new webpack.NoErrorsPlugin()
@@ -155,10 +137,10 @@ module.exports = function(opts) {
 
   externals.push(
     // put your node 3rd party libraries which can't be built with webpack here (mysql, mongodb, and so on..)
-    /^redux(\/.*)?$/,
-    /^node-notifier$/,
-    /^rsvp$/,
-    /^del$/
+    // /^redux(\/.*)?$/,
+    /^node-notifier$/
+    // /^rsvp$/,
+    // /^del$/
   );
 
   var options = {

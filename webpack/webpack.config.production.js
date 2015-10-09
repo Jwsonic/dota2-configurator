@@ -1,7 +1,7 @@
 module.exports = require('./make-webpack-config')({
-  // commonsChunk: true,
+  commonsChunk: true,
   longTermCaching: true,
   separateStylesheet: true,
-  minimize: true
-  // devtool: 'source-map'
+  minimize: true,
+  devtool: 'source-map'
 });
