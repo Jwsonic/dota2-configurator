@@ -1,19 +1,22 @@
 'use strict';
+/*jslint node: true */
 
 var pathUtil = require('path');
 var Q = require('q');
 var gulp = require('gulp');
-var rollup = require('rollup');
-var less = require('gulp-less');
+var sass = require('gulp-sass');
 var jetpack = require('fs-jetpack');
+var Writable = require('stream').Writable;
 
 var utils = require('./utils');
 var generateSpecsImportFile = require('./generate_specs_import');
 
 var gulp = require("gulp");
-var sourcemaps = require("gulp-sourcemaps");
-var babel = require("gulp-babel");
-var concat = require("gulp-concat");
+var browserify = require("browserify");
+var babelify = require("babelify");
+var source = require('vinyl-source-stream');
+var buffer = require('vinyl-buffer');
+var sourcemaps = require('gulp-sourcemaps');
 
 
 var projectDir = jetpack;
@@ -24,9 +27,10 @@ var paths = {
     copyFromAppDir: [
         './node_modules/**',
         './vendor/**',
-        './**/*.html'
+        './**/*.html',
+        './background.js'
     ],
-}
+};
 
 // -------------------------------------
 // Tasks
@@ -51,43 +55,51 @@ gulp.task('copy-watch', copyTask);
 
 var bundle = function(src, dest) {
     var deferred = Q.defer();
+    var writer = new Writable();
 
-    // rollup.rollup({
-    //     entry: src
-    // }).then(function (bundle) {
-    //     var jsFile = pathUtil.basename(dest);
-    //     var result = bundle.generate({
-    //         format: 'iife',
-    //         sourceMap: true,
-    //         sourceMapFile: jsFile,
-    //     });
-    //     return Q.all([
-    //         destDir.writeAsync(dest, result.code + '\n//# sourceMappingURL=' + jsFile + '.map'),
-    //         destDir.writeAsync(dest + '.map', result.map.toString()),
-    //     ]);
-    // }).then(function () {
-    //     deferred.resolve();
-    // }).catch(function (err) {
-    //     console.error(err);
-    // });
+    writer.on('finish', function() {
+        deferred.resolve();
+    });
 
-    gulp.src(src)
-        .pipe(sourcemaps.init())
-        .pipe(babel({stage: 1}))
-        .pipe(concat(dest))
-        .pipe(sourcemaps.write("."))
-        .pipe(gulp.dest("dist"));
+    var b = browserify({
+        entries: src,
+        debug: true,
+        // defining transforms here will avoid crashing your stream
+        transform: [babelify],
+        out: pathUtil.basename(dest)
+    });
 
-    deferred.resolve();
+    b.bundle()
+        .pipe(source(src))
+        .pipe(buffer())
+        // .pipe(sourcemaps.init({loadMaps: true}))
+        // Add transformation tasks to the pipeline here.
+        // .pipe(uglify())
+        // .on('error', gutil.log)
+        // .pipe(sourcemaps.write('./'))
+        .pipe(gulp.dest(dest));
+    // .pipe(writer);
+
+    // browserify({
+    //         debug: true
+    //     })
+    //     .transform(babelify)
+    //     .require(src, {
+    //         entry: true
+    //     })
+    //     .bundle()
+    //     .on("error", function(err) {
+    //         console.log("Error: " + err.message);
+    //         deferred.reject();
+    //     })
+    //     .pipe(gulp.dest(dest))
+    //     .pipe(writer);
 
     return deferred.promise;
 };
 
 var bundleApplication = function() {
-    return Q.all([
-        bundle(srcDir.path('background.js'), destDir.path('background.js')),
-        bundle(srcDir.path('app.js'), destDir.path('app.js')),
-    ]);
+    return bundle(srcDir.path('app.jsx'), destDir.path());
 };
 
 var bundleSpecs = function() {
@@ -108,15 +120,13 @@ var bundleTask = function() {
 gulp.task('bundle', ['clean'], bundleTask);
 gulp.task('bundle-watch', bundleTask);
 
-
-var lessTask = function() {
-    return gulp.src('app/stylesheets/main.less')
-        .pipe(less())
+var sassTask = function() {
+    return gulp.src('app/stylesheets/main.scss')
+        .pipe(sass().on('error', sass.logError))
         .pipe(gulp.dest(destDir.path('stylesheets')));
 };
-gulp.task('less', ['clean'], lessTask);
-gulp.task('less-watch', lessTask);
-
+gulp.task('sass', ['clean'], sassTask);
+gulp.task('sass-watch', sassTask);
 
 gulp.task('finalize', ['clean'], function() {
     var manifest = srcDir.read('package.json', 'json');
@@ -144,8 +154,8 @@ gulp.task('watch', function() {
     gulp.watch(paths.copyFromAppDir, {
         cwd: 'app'
     }, ['copy-watch']);
-    gulp.watch('app/**/*.less', ['less-watch']);
+    gulp.watch('app/**/*.scss', ['sass-watch']);
 });
 
 
-gulp.task('build', ['bundle', 'less', 'copy', 'finalize']);
+gulp.task('build', ['bundle', 'sass', 'copy', 'finalize']);

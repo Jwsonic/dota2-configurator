@@ -1,15 +1,26 @@
 {
-  "name": "electron-boilerplate",
+  "name": "dota2-configurator",
   "productName": "Electron Boilerplate",
   "identifier": "com.example.electron-boilerplate",
   "description": "Starter for your Electron application. Out of the box ready for serious stuff.",
   "version": "0.1.0",
   "author": "Mr Gumby <gumby@sillywalks.com>",
   "main": "background.js",
+  "jshintConfig": {
+    "esnext": true,
+    "quotmark": "single"
+  },
   "config": {
     "target": "development"
   },
   "dependencies": {
-    "fs-jetpack": "^0.7.0"
+    "fs-jetpack": "^0.7.0",
+    "del": "^2.0.2",
+    "immutable": "^3.7.5",
+    "node-notifier": "^4.3.1",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "rsvp": "^3.1.0",
+    "electron-prebuilt": "^0.32.2"
   }
 }
