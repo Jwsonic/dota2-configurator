@@ -6,7 +6,9 @@ import AppContainer from './containers/AppContainer.jsx';
 import DotaWatcher from './utils/dota/dotaWatcher.js';
 import DotaConfig from './utils/dota/config.js';
 
-DotaConfig.setUpAutoExec().then(() => console.log('Autoexec is set up!'));
+DotaConfig.setUpAutoExec()
+  .then(() => console.log('Autoexec is set up!'))
+  .catch(() => console.log('No autoexec found!'));
 
 DotaWatcher.on('start', () => notifier.notify({
   'title': 'Dota is Running!',
