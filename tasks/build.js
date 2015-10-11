@@ -12,11 +12,12 @@ var utils = require('./utils');
 var generateSpecsImportFile = require('./generate_specs_import');
 
 var gulp = require("gulp");
-var browserify = require("browserify");
-var babelify = require("babelify");
-var source = require('vinyl-source-stream');
-var buffer = require('vinyl-buffer');
-var sourcemaps = require('gulp-sourcemaps');
+var webpack = require("webpack");
+// var browserify = require("browserify");
+// var babelify = require("babelify");
+// var source = require('vinyl-source-stream');
+// var buffer = require('vinyl-buffer');
+// var sourcemaps = require('gulp-sourcemaps');
 
 
 var projectDir = jetpack;
@@ -55,45 +56,31 @@ gulp.task('copy-watch', copyTask);
 
 var bundle = function(src, dest) {
     var deferred = Q.defer();
-    var writer = new Writable();
 
-    writer.on('finish', function() {
-        deferred.resolve();
+
+    webpack({
+        entry: src,
+        output: {
+            path: dest,
+            filename: 'app.js'
+        },
+        module: {
+            loaders: [{
+                test: /\.jsx?$/,
+                exclude: /(node_modules|bower_components)/,
+                loader: 'babel',
+                query: {
+                    stage: 1
+                }
+            }]
+        }
+    }, function(err, stats) {
+        if (err) {
+            deferred.reject(err);
+        } else {
+            deferred.resolve();
+        }
     });
-
-    var b = browserify({
-        entries: src,
-        debug: true,
-        // defining transforms here will avoid crashing your stream
-        transform: [babelify],
-        out: pathUtil.basename(dest)
-    });
-
-    b.bundle()
-        .pipe(source(src))
-        .pipe(buffer())
-        // .pipe(sourcemaps.init({loadMaps: true}))
-        // Add transformation tasks to the pipeline here.
-        // .pipe(uglify())
-        // .on('error', gutil.log)
-        // .pipe(sourcemaps.write('./'))
-        .pipe(gulp.dest(dest));
-    // .pipe(writer);
-
-    // browserify({
-    //         debug: true
-    //     })
-    //     .transform(babelify)
-    //     .require(src, {
-    //         entry: true
-    //     })
-    //     .bundle()
-    //     .on("error", function(err) {
-    //         console.log("Error: " + err.message);
-    //         deferred.reject();
-    //     })
-    //     .pipe(gulp.dest(dest))
-    //     .pipe(writer);
 
     return deferred.promise;
 };
