@@ -37,7 +37,7 @@ module.exports = function(opts) {
     'css': cssLoader,
     'less': [ cssLoader, 'less-loader' ],
     'styl': [ cssLoader, 'stylus-loader' ],
-    'scss|sass': [ cssLoader, 'sass-loader' ]
+    // 'scss|sass': [ cssLoader, 'sass-loader' ]
   };
 
   var additionalLoaders = [
@@ -135,7 +135,7 @@ module.exports = function(opts) {
     plugins.push(
       new webpack.optimize.UglifyJsPlugin({
         compressor: {
-          warnings: false
+          warnings: true
         }
       }),
       new webpack.optimize.DedupePlugin()
@@ -148,8 +148,8 @@ module.exports = function(opts) {
         'process.env': {
           NODE_ENV: "'production'"
         }
-      }),
-      new webpack.NoErrorsPlugin()
+      })
+      // new webpack.NoErrorsPlugin()
     );
   }
 
@@ -157,8 +157,8 @@ module.exports = function(opts) {
     // put your node 3rd party libraries which can't be built with webpack here (mysql, mongodb, and so on..)
     /^redux(\/.*)?$/,
     /^node-notifier$/,
-    /^rsvp$/,
-    /^del$/
+    /^rsvp$/
+    // /^del$/
   );
 
   var options = {
@@ -169,7 +169,7 @@ module.exports = function(opts) {
       loaders: [].concat(loadersByExtension(loaders)).concat(loadersByExtension(stylesheetLoaders)).concat(additionalLoaders)
     },
     devtool: opts.devtool,
-    debug: opts.debug,
+    debug: true,
     resolve: {
       root: appRoot,
       modulesDirectories: modulesDirectories,

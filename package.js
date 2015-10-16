@@ -52,7 +52,9 @@ if (version) {
 
 function startPack() {
   console.log('start pack...');
-  webpack(cfg, function runWebpackBuild(err, stats) {
+  // console.log(cfg);
+  webpack(cfg, function (err, stats) {
+    console.log('then');
     if (err) return console.error(err);
     del('release')
     .then(function(paths) {
