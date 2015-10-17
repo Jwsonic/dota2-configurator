@@ -1,12 +1,19 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
-    <title>Hello Electron React!</title>
-    <link rel="stylesheet" href="../dist/main.css" />
-  </head>
-  <body>
+    <title>Electron Boilerplate</title>
+
+    <link href="./stylesheets/main.css" rel="stylesheet" type="text/css">
+
+    <script src="vendor/electron_boilerplate/env_config.js"></script>
+    <script src="vendor/electron_boilerplate/context_menu.js"></script>
+    <script src="vendor/electron_boilerplate/external_links.js"></script>
+
+
+</head>
+<body>
     <div id="react-root"></div>
-    <script src="../dist/bundle.js"></script>
-  </body>
+    <script src="app/app.jsx"></script>
+</body>
 </html>
